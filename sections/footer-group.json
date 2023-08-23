@@ -1,0 +1,64 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "c704df06-65bc-48c6-b7b0-5edcb5c1df5c": {
+          "type": "link_list",
+          "settings": {
+            "heading": "COMPANY INFO",
+            "menu": "company-info"
+          }
+        },
+        "50700658-ea9a-4d18-95b5-f7c98d010f79": {
+          "type": "link_list",
+          "settings": {
+            "heading": "HELP AND SUPPORT",
+            "menu": "help-and-support"
+          }
+        },
+        "2d1458e2-c3cb-4182-8c9e-a5f9db21c9dc": {
+          "type": "brand_information",
+          "disabled": true,
+          "settings": {
+            "show_social": true
+          }
+        },
+        "2477ff40-bf2b-47e5-a88c-4a948db6c0a3": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/woodemon_b33224a2-a324-4afd-8561-34144be4d1b4.jpg",
+            "image_width": 550,
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "c704df06-65bc-48c6-b7b0-5edcb5c1df5c",
+        "50700658-ea9a-4d18-95b5-f7c98d010f79",
+        "2d1458e2-c3cb-4182-8c9e-a5f9db21c9dc",
+        "2477ff40-bf2b-47e5-a88c-4a948db6c0a3"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 36,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

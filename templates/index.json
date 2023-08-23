@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/best_montessori_toys-hero-shutterstock_1234278556.webp",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "f688897f-ef05-4976-897f-3af9f8d03a1c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20311423582492__f688897f-ef05-4976-897f-3af9f8d03a1c-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/57f4397bef7a05e517e750e0c69e63ca_1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Shop all",
+            "link": ""
+          }
+        },
+        "template--20311423582492__f688897f-ef05-4976-897f-3af9f8d03a1c-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/57f4397bef7a05e517e750e0c69e63ca_1_ba0266b0-4a36-4c82-b3ec-24d7f280b2fd.webp",
+            "title": "",
+            "text": "",
+            "link_label": "Shop all",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20311423582492__f688897f-ef05-4976-897f-3af9f8d03a1c-column-1",
+        "template--20311423582492__f688897f-ef05-4976-897f-3af9f8d03a1c-column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Let Your Babies Enjoy These Cute Puzzles",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d7d333f3-bf49-4675-a84d-a8e58c5ffa31": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mommy's Favorite",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "baby-boards",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-46547c83-31a2-4ea6-a7c7-464f2ce61b3a",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d4692ba6-2e2d-4063-a3fd-92bebf91a8d3": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "enable_video_looping": true,
+        "video_url": "https:\/\/youtu.be\/OWr-jcry2zQ",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e9876fbb-8f69-4448-a48a-af5acae992aa": {
+      "type": "collage",
+      "blocks": {
+        "template--20311423582492__e9876fbb-8f69-4448-a48a-af5acae992aa-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "baby-night-light-cute-rainbow-night-light-personalized-night-light-custom-night-light-baby-girl-gift-rainbow-night-light-gift-for-kids",
+            "second_image": true
+          }
+        },
+        "template--20311423582492__e9876fbb-8f69-4448-a48a-af5acae992aa-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "bedtime-favorites"
+          }
+        }
+      },
+      "block_order": [
+        "template--20311423582492__e9876fbb-8f69-4448-a48a-af5acae992aa-product-1",
+        "template--20311423582492__e9876fbb-8f69-4448-a48a-af5acae992aa-collection-1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "scheme-46547c83-31a2-4ea6-a7c7-464f2ce61b3a",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2e232987-7a4f-45d5-92f4-54f011ef28e6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20311423582492__2e232987-7a4f-45d5-92f4-54f011ef28e6-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/il_1140xN.4247889411_kmrz_905c695c-11f3-4cb6-b0be-00bc378c6139.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20311423582492__2e232987-7a4f-45d5-92f4-54f011ef28e6-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/il_1140xN.5088581450_ddxv.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20311423582492__2e232987-7a4f-45d5-92f4-54f011ef28e6-column-1",
+        "template--20311423582492__2e232987-7a4f-45d5-92f4-54f011ef28e6-column-2"
+      ],
+      "custom_css": [
+        ".inline-richtext {text-align: center;}"
+      ],
+      "settings": {
+        "title": "The new Play or Stay stand!",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-46547c83-31a2-4ea6-a7c7-464f2ce61b3a",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "6ec669fd-b687-450c-8be7-afc780be4aeb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--20311423582492__6ec669fd-b687-450c-8be7-afc780be4aeb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--20311423582492__6ec669fd-b687-450c-8be7-afc780be4aeb-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--20311423582492__6ec669fd-b687-450c-8be7-afc780be4aeb-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20311423582492__6ec669fd-b687-450c-8be7-afc780be4aeb-heading-1",
+        "template--20311423582492__6ec669fd-b687-450c-8be7-afc780be4aeb-text-1",
+        "template--20311423582492__6ec669fd-b687-450c-8be7-afc780be4aeb-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC03270_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "f688897f-ef05-4976-897f-3af9f8d03a1c",
+    "d7d333f3-bf49-4675-a84d-a8e58c5ffa31",
+    "d4692ba6-2e2d-4063-a3fd-92bebf91a8d3",
+    "e9876fbb-8f69-4448-a48a-af5acae992aa",
+    "2e232987-7a4f-45d5-92f4-54f011ef28e6",
+    "6ec669fd-b687-450c-8be7-afc780be4aeb"
+  ]
+}
